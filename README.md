@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hehaha68&layout=compact&theme=dark)](https://github.com/hehaha68/github-readme-stats)
+![Yorick's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hehaha68&layout=compact&theme=dark&langs_count=10)
