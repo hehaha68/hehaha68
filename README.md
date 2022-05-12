@@ -40,6 +40,7 @@ Now I am studying Data Science at **[USTC](http://english.ustc.edu.cn/)**.
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Adobe Dreamweaver](http://img.shields.io/badge/-Abode%20Dreamweaver-8552a1?style=flat&logo=adobedreamweaver&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/Adobe_Photoshop-0066CC?style=flat&logo=adobephotoshop&logoColor=ffffff)
+![Pytorch](http://img.shields.io/badge/pytorch?style=flat&logo=adobephotoshop&logoColor=ffffff)
 
 -------------
 ### Contact me:
