@@ -53,3 +53,4 @@ Now I am studying Data Science at **[USTC](http://english.ustc.edu.cn/)**.
 - Epic: [![Epic](https://img.shields.io/badge/hehaha68-black?style=flat-square&logo=epicgames&logoColor=white)](https://www.epicgames.com/)
 - Origin: [![Origin](https://img.shields.io/badge/YorickHe-FF8000?style=flat-square&logo=origin&logoColor=white)](https://www.origin.com/)
 ----------
+You can also follow my friend in USTC： [![wonderful9462]](https://github.com/wonderful9462)
