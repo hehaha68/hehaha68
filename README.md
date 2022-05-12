@@ -42,6 +42,7 @@ Now I am studying Data Science at **[USTC](http://english.ustc.edu.cn/)**.
 ![Adobe Photoshop](http://img.shields.io/badge/Adobe_Photoshop-0066CC?style=flat&logo=adobephotoshop&logoColor=ffffff)
 ![Keras](http://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=ffffff)
 ![PyTorch](http://img.shields.io/badge/PyTorch-f58220?style=flat&logo=pytorch&logoColor=ffffff)
+![TensorFlow](http://img.shields.io/badge/TensorFlow-faa755?style=flat&logo=tensorflow&logoColor=ffffff)
 -------------
 ### Contact me:
 
