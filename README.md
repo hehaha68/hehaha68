@@ -8,8 +8,8 @@ Now I am studying Data Science at **[USTC](http://english.ustc.edu.cn/)**.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a collage student at my 3th year; 
-- 🤔 My interests are machine learning, AI in big data, KDD etc..;
+- 👨🏽‍💻 I’m currently a collage student at my 4th year; 
+- 🤔 My interests are LLM, SD, AI4DB, open source community;
 - 💼 I’m pursuing a Bachelor's degree in Data Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
