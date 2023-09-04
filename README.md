@@ -20,7 +20,7 @@ Now I am studying Data Science at **[USTC](http://english.ustc.edu.cn/)**.
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehaha68&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=dark" alt="Yorick's Public Github Stats">
 </p>  
-
+<!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-ef4136?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
@@ -43,16 +43,13 @@ Now I am studying Data Science at **[USTC](http://english.ustc.edu.cn/)**.
 ![Keras](http://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=ffffff)
 ![PyTorch](http://img.shields.io/badge/PyTorch-f58220?style=flat&logo=pytorch&logoColor=ffffff)
 ![TensorFlow](http://img.shields.io/badge/TensorFlow-faa755?style=flat&logo=tensorflow&logoColor=ffffff)
+-->
+
 -------------
 ### Contact me:
 
 - Email: [![Email](https://img.shields.io/badge/vagabond@mail.ustc.edu.cn-D14836?style=flat-square&logoColor=white)](mailto:vagabond@mail.ustc.edu.cn)
 - Tencent QQ: ![tencent QQ](https://img.shields.io/badge/908536269-black?style=flat-square&logo=tencentqq&logoColor=white)
 - WeChat: ![WeChat](https://img.shields.io/badge/hehaha0608-04BE02?style=flat-square&logo=wechat&logoColor=white)
-----------
-### Game:
-- Steam: [![Steam](https://img.shields.io/badge/422709650-003D79?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/)
-- Epic: [![Epic](https://img.shields.io/badge/hehaha68-black?style=flat-square&logo=epicgames&logoColor=white)](https://www.epicgames.com/)
-- Origin: [![Origin](https://img.shields.io/badge/YorickHe-FF8000?style=flat-square&logo=origin&logoColor=white)](https://www.origin.com/)
 ----------
 You can also follow my friend in USTC： [wonderful9462](https://github.com/wonderful9462)
